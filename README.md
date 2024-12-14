@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vaibhav707
-- 👀 I’m interested in game development, competitive coding and software development.
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Vaibhav
+- 👀 I’m interested in competitive coding and software development.
+- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
